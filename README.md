@@ -1,6 +1,6 @@
 Airlines Management System
 Overview:
-A console application by the ITI Full Stack .NET team for efficient internal management of airlines. Seamlessly handles members, programs, bookings, and payments.
+A console application by the ITI Full Stack .NET team for efficient internal management of airlines , Seamlessly handles internal process , flights , passenger .
 
 Key Features:
 
