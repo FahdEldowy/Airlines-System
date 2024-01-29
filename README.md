@@ -21,7 +21,7 @@ Git and GitHub ensure organized and collaborative development.
 
 Getting Started:
 
-Clone the Repository: git clone [https://github.com/your-username/airlines-management-system.git](https://github.com/FahdEldowy/Airlines-System/)
+Clone the Repository: git clone (https://github.com/FahdEldowy/Airlines-System/)
 
 
 
