@@ -21,11 +21,9 @@ Git and GitHub ensure organized and collaborative development.
 
 Getting Started:
 
-Clone the Repository: git clone https://github.com/your-username/airlines-management-system.git
-Run the Application: dotnet run
-Follow On-Screen Instructions
-Video Showcase:
-Explore project highlights with our video showcase.
+Clone the Repository: git clone [https://github.com/your-username/airlines-management-system.git](https://github.com/FahdEldowy/Airlines-System/)
+
+
 
 Future Implications:
 Excited about future implications and improvements. Join us in the continual innovation in Full Stack .NET development.
@@ -33,5 +31,4 @@ Excited about future implications and improvements. Join us in the continual inn
 Contributing:
 Contributions are welcome! Submit issues or pull requests. For major changes, open an issue to discuss modifications.
 
-License:
-This project is licensed under the MIT License.
+
